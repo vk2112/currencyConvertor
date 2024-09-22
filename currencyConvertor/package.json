@@ -1,5 +1,4 @@
-{ 
-  "homepage": "https://vk2112.github.io/currencyConvertor.github.io",
+{
   "name": "currencyconvertor",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
